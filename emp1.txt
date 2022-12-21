@@ -1,0 +1,4 @@
+
+Employee name: TempEmp
+Employee id: emp1
+Employee salary: 20000

@@ -1,0 +1,6 @@
+
+Product name: ButterflowPen
+Product id: pen43
+Product cost price: 10
+Product sell price: 20
+Product quantity: 100

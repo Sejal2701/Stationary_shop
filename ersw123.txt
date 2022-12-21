@@ -1,0 +1,7 @@
+
+Product name: erasar
+Product id: ersw123
+Product cost price: 10
+Product sell price: 20
+Product quantity: 90
+
